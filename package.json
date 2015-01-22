@@ -1,0 +1,17 @@
+{
+  "name": "doctypes",
+  "version": "0.0.0",
+  "description": "Shorthands for commonly used doctypes",
+  "keywords": [],
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jadejs/doctypes.git"
+  },
+  "author": "ForbesLindesay",
+  "license": "MIT"
+}
